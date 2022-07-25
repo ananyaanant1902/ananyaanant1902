@@ -9,13 +9,22 @@
 
 ***
 
-I am a Passionate and dedicated engineering student with creative, technical and leadership skills.
+-:woman_technologist: I am a Engineering student and Tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
--🌱 I’m currently learning Web Design.
+-:electron: I am a Passionate and dedicated engineering student with creative, technical and leadership skills.
 
--👯 I’m looking to collaborate on creative projects.
+-:door: I’m currently exploring machine learning and web development
 
--⚡ Fun fact: Sometimes I'll start a sentence, and I don't even know where it's going. I just hope I find it along the way.
+-:space_invader: I’m looking to collaborate on creative projects.
+
+-:zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+-:mailbox:How to reach me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ananya_Anant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-anant-173214194/)
+
+
+
 ***
 
 
