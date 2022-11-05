@@ -9,7 +9,7 @@
 
 ***
 
--:woman_technologist: I am a Engineering student and Tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+-:woman_technologist: I am an Engineering student and Tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 -:electron: I am a Passionate and dedicated engineering student with creative, technical and leadership skills.
 
